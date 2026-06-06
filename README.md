@@ -5,5 +5,4 @@ Here is the YouTube video I watched to learn HTML and CSS!
 https://www.youtube.com/watch?v=G3e-cpL7ofc
 <br><br>
 # Please Note!
-<br><br>
 The HTML (index.html) and CSS (styles.css) only get updated when I take a break from coding. If no future updates are seen, I have completed the frontend (HTML and CSS) course!
