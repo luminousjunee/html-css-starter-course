@@ -1,0 +1,47 @@
+.yt-sub-btn {
+  background-color: #d70000;
+  height: 35px;
+  width: 105px;
+  margin-right: 8px;
+  border: none;
+  color: #ffffff;
+  border-radius: 3px;
+}
+
+.yt-sub-btn:hover {
+  background-color: #ec0000;
+  cursor: pointer;
+}
+
+.yt-join-btn {
+  background-color: transparent;
+  height: 35px;
+  width: 70px;
+  margin-right: 8px;
+  border-width: 1px;
+  border-color: #0077ff;
+  border-style: solid;
+  color: #0077ff;
+  border-radius: 3px;
+}
+
+.yt-join-btn:hover {
+  background-color: #d4e8ff;
+  cursor: pointer;
+}
+
+.twt-tweet-btn {
+  background-color: #009fe9;
+  color: #ffffff;
+  height: 35px;
+  width: 85px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.twt-tweet-btn:hover {
+  background-color: #008aca;
+  cursor: pointer;
+}
