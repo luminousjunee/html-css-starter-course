@@ -1,4 +1,4 @@
-# html-css-starter-course
+# FRONTEND (HTML AND CSS) LEARNING COURSE
 Learning HTML and CSS to understand frontend development better!
 <br><br>
 Here is the YouTube video I watched to learn HTML and CSS!
